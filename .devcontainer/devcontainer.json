@@ -1,0 +1,7 @@
+{
+  "name": "Gemini CLI Dev",
+  "build": {
+    "context": "..",
+    "dockerfile": "Dockerfile"
+  }
+}
